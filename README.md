@@ -13,6 +13,8 @@ Hands-on work includes:
 
 Strong ability to collaborate with engineers, analysts, and business stakeholders, translating requirements into technically sound and maintainable data solutions.
 
+![Profile View Count](https://komarev.com/ghpvc/?username=moreira-and\&theme=dracula)
+
 * 🔗 **LinkedIn:** [moreira-and](https://www.linkedin.com/in/moreira-and)
 * ▶ **YouTube:** [@DadosSobreAprendizado](https://www.youtube.com/@DadosSobreAprendizado)
 
@@ -45,8 +47,6 @@ Strong ability to collaborate with engineers, analysts, and business stakeholder
 
 ---
 
-![Profile View Count](https://komarev.com/ghpvc/?username=moreira-and\&theme=dracula)
-
 <div style="display: flex; justify-content: center; align-items: flex-start; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=moreira-and&show_icons=true&theme=dracula&rank_icon=github" alt="André's GitHub Stats" style="height: 150px; border-radius: 10px; margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreira-and&theme=dracula" alt="Top Languages Used by André" style="height: 150px; border-radius: 10px;"/>
@@ -54,12 +54,28 @@ Strong ability to collaborate with engineers, analysts, and business stakeholder
 
 ---
 
-If you need motivation to study, I recommend this video in Portuguese (if necessary, enable subtitles): [Motivação para estudar (BRIO) | Clóvis de Barros](https://www.youtube.com/watch?v=TRPBY_lxJfE).
+### Additional Resources
 
-If you need ideas to visualize your data: [data-to-viz](https://www.data-to-viz.com/) | [dataviz-inspiration](https://www.dataviz-inspiration.com/)
+* **Study & Motivation (PT-BR)**
+  Recommended talk on discipline, purpose, and intellectual rigor (subtitles available if needed):
+  * [Motivação para estudar (BRIO) | Clóvis de Barros](https://www.youtube.com/watch?v=TRPBY_lxJfE)
 
-Teach and learn math in a smarter way: [geogebra](https://www.geogebra.org/)
+* **Data Visualization References**
+  Practical guidance and inspiration for choosing effective visual encodings:
 
-Tinker With a Neural Network Right Here in Your Browser: [playground.tensorflow](https://playground.tensorflow.org/)
+  * [data-to-viz](https://www.data-to-viz.com/)
+  * [dataviz-inspiration](https://www.dataviz-inspiration.com/)
+
+* **Mathematics & Visualization**
+  Interactive environment for exploring mathematical concepts and geometric intuition:
+
+  * [GeoGebra](https://www.geogebra.org/)
+
+* **Machine Learning Intuition**
+  Browser-based tool for experimenting with neural networks and understanding their behavior:
+
+  * [TensorFlow Playground](https://playground.tensorflow.org/)
+
+---
 
 _*Thank you for visiting!*_
